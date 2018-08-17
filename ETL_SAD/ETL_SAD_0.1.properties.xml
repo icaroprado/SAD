@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_HtpbcaJFEeitlcGIaSvlLw" id="_HtpbcKJFEeitlcGIaSvlLw" label="ETL_SAD" purpose="objetivo do job" description="Descrição do job, no caso o objetivo é exportar a mesma base em diversos formatos." version="0.1" statusCode="" item="_Htpbc6JFEeitlcGIaSvlLw" displayName="ETL_SAD">
+    <author href="../talend.project#_nKzhQpQgEeiRkovNJ19iuQ"/>
+    <additionalProperties xmi:id="_HtzMcKJFEeitlcGIaSvlLw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_HtzMcaJFEeitlcGIaSvlLw" key="created_product_version" value="7.0.1.20180411_1414"/>
+    <additionalProperties xmi:id="_HtzMcqJFEeitlcGIaSvlLw" key="created_date" value="2018-08-17T14:43:58.903-0300"/>
+    <additionalProperties xmi:id="_HtzMc6JFEeitlcGIaSvlLw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_HtzMdKJFEeitlcGIaSvlLw" key="modified_product_version" value="7.0.1.20180411_1414"/>
+    <additionalProperties xmi:id="_HtzMdaJFEeitlcGIaSvlLw" key="modified_date" value="2018-08-17T16:35:43.036-0300"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_HtpbcqJFEeitlcGIaSvlLw" path="" locked="true" lockDate="2018-08-17T14:44:00.834-0300">
+    <locker href="../talend.project#_nKzhQpQgEeiRkovNJ19iuQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_Htpbc6JFEeitlcGIaSvlLw" property="_HtpbcaJFEeitlcGIaSvlLw" state="_HtpbcqJFEeitlcGIaSvlLw">
+    <process href="ETL_SAD_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

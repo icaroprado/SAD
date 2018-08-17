@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_9QxiAKJGEeitlcGIaSvlLw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_9QxiAaJGEeitlcGIaSvlLw" comment="" name="template_ETL_SAD_RowSeparator" prompt="template_ETL_SAD_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_9QxiAqJGEeitlcGIaSvlLw" comment="" name="template_ETL_SAD_Encoding" prompt="template_ETL_SAD_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_9QxiA6JGEeitlcGIaSvlLw" comment="" name="template_ETL_SAD_File" prompt="template_ETL_SAD_File?" promptNeeded="false" type="id_File" value="C:/Users/icaro.prado/Downloads/201704-turismo-acessivel.csv"/>
+  <contextParameter xmi:id="_9QxiBKJGEeitlcGIaSvlLw" comment="" name="template_ETL_SAD_FieldSeparator" prompt="template_ETL_SAD_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+</talendfile:ContextType>

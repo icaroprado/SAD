@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row>
+<Categoria>&quot;categoria&quot;</Categoria>
+<cnpj>&quot;cnpj&quot;</cnpj>
+<nome_estabelecimento>&quot;nome_estabelecimento&quot;</nome_estabelecimento>
+<uf>&quot;uf&quot;</uf>
+<Cidade>&quot;cidade&quot;</Cidade>
+<Endereco>&quot;endereco&quot;</Endereco>
+<email>&quot;email&quot;</email>
+<nota_estabelecimento>&quot;nota_estabelecimento&quot;</nota_estabelecimento>
+<perspectiva_acessibilidade>&quot;perspectiva_acessibilidade&quot;</perspectiva_acessibilidade>
+<recurso_acessibilidade>&quot;recurso_acessibilidade&quot;</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>&quot;nome_usuario&quot;</nome_usuario>
+<comentario>&quot;comentario&quot;</comentario>
+<ano>&quot;ano&quot;</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe telefone com transmissão de texto? </recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para pessoa com deficiência perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Igor Kishi</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para idosos perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os corredores (circulação interna) são acessíveis? (largura mínima, sem obstáculos...)</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os corredores (circulação interna) são acessíveis? (largura mínima, sem obstáculos...)</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para idosos perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para idosos perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há sinalização de emergência luminosa nas áreas comuns?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O mobiliário do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para pessoa com deficiência perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Igor Kishi</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem sanitários de uso público acessíveis?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os balcões de atendimento são acessíveis, incluindo caixas, guichês e bilheterias?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As portas de acesso estão livres de barreiras?  (catracas, trilhos não embutidos, degraus...)</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A área de lazer é adaptada (piscina, brinquedos, quadras, etc.)?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para idosos perto do acesso?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O mobiliário do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem dormitórios acessíveis?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há intérprete de LIBRAS disponível?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>O banheiro do dormitório é acessível?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As portas de acesso estão livres de barreiras?  (catracas, trilhos não embutidos, degraus...)</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para pessoa com deficiência perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Igor Kishi</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para pessoa com deficiência perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Igor Kishi</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem sanitários de uso público acessíveis?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há sinalização dos locais e equipamentos acessíveis com os símbolos internacionais?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem dormitórios acessíveis?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para pessoa com deficiência perto do acesso?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para idosos perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem dormitórios acessíveis?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Possui pessoal treinado para atendimento à pessoa com deficiência ou mob. Reduzida?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>3</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>4</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;10359340000167    &quot;</cnpj>
+<nome_estabelecimento>HOTEL TOPAZIO</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA FLAMENGO QUADRA44                  LOTE  09 E 10, RIO DE JANEIRO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>MOBILIDADE REDUZIDA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A rampa de acesso possui inclinação aceitável e corrimãos em 2 alturas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há sinalização luminosa nos apartamentos?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A escada possui corrimão dos dois lados e piso antiderrapante?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas são antiderrapantes e antitrepidantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há dispositivo de chamada nos sanitários para casos de emergência?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>As calçadas possuem inclinações aceitáveis e não possuem obstáculos?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;00812651000186    &quot;</cnpj>
+<nome_estabelecimento>ORGANIZACAO S SKAROLE GOYAZ HOTEL LAPIDACAO ANHANGUERA</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>AVENIDA KALED COZAC , CENTRO</Endereco>
+<email></email>
+<nota_estabelecimento>2,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há sinalização dos locais e equipamentos acessíveis com os símbolos internacionais?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existe elevador ou plataforma elevatória para cadeira de rodas?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Existem vagas de veículos reservadas e sinalizadas para pessoa com deficiência perto do acesso?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>6,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA AUDITIVA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os pisos da edificação são antiderrapantes?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há sinalização dos locais e equipamentos acessíveis com os símbolos internacionais?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08617874000102    &quot;</cnpj>
+<nome_estabelecimento>HOTEL DAS ROSAS</nome_estabelecimento>
+<uf>SP</uf>
+<Cidade>GUARULHOS</Cidade>
+<Endereco>RUA PEDRO VELHO , PARQUE JUREMA</Endereco>
+<email>kellyapda24@hotmail.com</email>
+<nota_estabelecimento>10</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>A área de lazer é adaptada (piscina, brinquedos, quadras, etc.)?</recurso_acessibilidade>
+<possui_recurso>true</possui_recurso>
+<nome_usuario>Luiz Paulino</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;08796076000349    &quot;</cnpj>
+<nome_estabelecimento>BRASIL 21 SUITES</nome_estabelecimento>
+<uf>DF</uf>
+<Cidade>BRASILIA</Cidade>
+<Endereco>SETOR SETOR HOTELEIRO SUL QUADRA 06, CONJ A, BLOCO F, SOBRELOJA SALA  DA ADMINISTRACAO, ASA SUL</Endereco>
+<email></email>
+<nota_estabelecimento>0,5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA VISUAL</perspectiva_acessibilidade>
+<recurso_acessibilidade>Há rebaixamento do meio-fio (rampa) nas calçadas?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>Juliano Daldegan</nome_usuario>
+<comentario>Tenho algum problema de locomoção e senti que o hotel atende as expectativas, mas deixa a desejar em alguns itens básicos que podem melhorar a vida de quem tem dificuldade de locomoção</comentario>
+<ano>2.017</ano>
+</row>
+<row>
+<Categoria>Hospedagem</Categoria>
+<cnpj>&quot;05521169000100    &quot;</cnpj>
+<nome_estabelecimento>HOTEL CACIQUE</nome_estabelecimento>
+<uf>GO</uf>
+<Cidade>CRISTALINA</Cidade>
+<Endereco>RUA LEON LABOUCIERI , JARDIM PLANALTO</Endereco>
+<email></email>
+<nota_estabelecimento>5</nota_estabelecimento>
+<perspectiva_acessibilidade>DEFICIÊNCIA FÍSICA OU MOTORA</perspectiva_acessibilidade>
+<recurso_acessibilidade>Os balcões de atendimento são acessíveis, incluindo caixas, guichês e bilheterias?</recurso_acessibilidade>
+<possui_recurso>false</possui_recurso>
+<nome_usuario>MARCOS ANTONIO DA SILVA DOS SANTOS</nome_usuario>
+<comentario></comentario>
+<ano>2.017</ano>
+</row>
+</root>
